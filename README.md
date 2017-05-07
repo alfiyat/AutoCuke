@@ -9,8 +9,8 @@ How to check report:
 Refresh the Project
 -> In 'target' folder go to - 'Cucumber' folder double click on 'index.html' 
 -> Report contains 
-Green color - Passed test cases
-Red color - Failed test case with description ans screenshot
+-> Green color - Passed test cases
+-> Red color - Failed test case with description ans screenshot
 
 How to check logs:
 -> Go to physical location of project
