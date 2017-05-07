@@ -2,7 +2,7 @@
 Automation - using Cucumber and Selenium
 
 * How to get code from github repository:
- 1. Click on the 'Assignment.zip'
+   1. Click on the 'Assignment.zip'
  2. Click on 'View Raw'
  3. Zip file will get downloaded on your local machine and extract it
 
