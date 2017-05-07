@@ -1,14 +1,14 @@
 # AutoCuke
 Automation - using Cucumber and Selenium
 
-* Presiquite softwares:
+* Version of softwares and dependency:
    1. Eclipse : Luna
    2. Chrome exe : 2.29
    3. Maven : 3.1
    4. Java : 8
    5. Cucumber : 1.2.5
    6. Selenium : 2.53.1
-
+   7. Chrome browser : 58.0.3029.96
 
 
 * How to get code from github repository:
@@ -28,7 +28,7 @@ Automation - using Cucumber and Selenium
            5. Browse for extracted 'Automation\Assignment' folder
 
 * How to execute test cases:
-   1. Expand src/test/java folder
+   1. Expand 'src/test/java' folder
    2. In 'runner' package, right click on 'TestRunner class' and select option 'Run as - JUnit Test' (Use Junit 4)
 
 * How to check report:
