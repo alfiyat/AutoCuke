@@ -1,6 +1,16 @@
 # AutoCuke
 Automation - using Cucumber and Selenium
 
+* Presiquite softwares:
+   Eclipse : Luna
+   Chrome exe : 2.29
+   Maven : 3.1
+   Java : 8
+   Cucumber : 1.2.5
+   Selenium : 2.53.1
+
+
+
 * How to get code from github repository:
    1. Click on the 'Automation.zip'
    2. Click on 'View Raw'
@@ -18,18 +28,19 @@ Automation - using Cucumber and Selenium
            5. Browse for extracted 'Automation\Assignment' folder
 
 * How to execute test cases:
-   1. In 'runner' package,right click on 'TestRunner class' and select option 'Run as'- JUnit Test (Set Junit 4)
+   1. Expand src/test/java folder
+   2. In 'runner' package, right click on 'TestRunner class' and select option 'Run as - JUnit Test' (Use Junit 4)
 
 * How to check report:
-   1. Refresh the Project
-   2. In 'target' folder go to - 'Cucumber' folder double click on 'index.html' 
-   3. Report contains 
-   4. Green color - Passed test cases
-   5. Red color - Failed test case with description ans screenshot
+   1. Go to 'Package explorer' and refresh the Project
+   2. In 'target' foldper, go to 'Cucumber' folder and double click on 'index.html' 
+   3. Report contains details of passed and failed test cases
+            Green color - Passed test cases
+            Red color - Failed test case with description and screenshot
 
 * How to check logs:
    1. Go to physical location of project
-   2. open the folder log
+   2. open the 'log' folder 
    3. Check loggs in text documents.
 
 Thank You!!
