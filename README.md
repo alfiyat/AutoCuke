@@ -2,7 +2,7 @@
 Automation - using Cucumber and Selenium
 
 * How to get code from github repository:
-   1. Click on the 'Assignment.zip'
+   1. Click on the 'Automation.zip'
    2. Click on 'View Raw'
    3. Zip file will get downloaded on your local machine then extract it
 
@@ -14,7 +14,7 @@ Automation - using Cucumber and Selenium
          -> Then expand 'Maven' option 
          -> Then click on 'Existing maven project'
          -> Click on 'Next'
-         -> Browse for extracted 'Assignment' folder/project
+         -> Browse for extracted 'Automation/Assignment' folder
 
 * How to execute test cases:
    1. In 'runner' package,right click on 'TestRunner class' and select option 'Run as'- JUnit Test (Set Junit 4)
