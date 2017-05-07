@@ -10,11 +10,11 @@ Automation - using Cucumber and Selenium
    1. Create a folder 'RunCuke' on your machine (for creating a new workspace)
    2. Go to eclipse and select a 'workspace' by browsing for the 'RunCuke' folder (created in above step)
    3. Follow below steps to import project in eclipse
-         -> Click on 'File' and select 'Import' option 
-         -> Then expand 'Maven' option 
-         -> Then click on 'Existing maven project'
-         -> Click on 'Next'
-         -> Browse for extracted 'Automation/Assignment' folder
+        -> Click on 'File' and select 'Import' option 
+        -> Then expand 'Maven' option 
+        -> Then click on 'Existing maven project'
+        -> Click on 'Next'
+        -> Browse for extracted 'Automation\Assignment' folder
 
 * How to execute test cases:
    1. In 'runner' package,right click on 'TestRunner class' and select option 'Run as'- JUnit Test (Set Junit 4)
