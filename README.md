@@ -2,12 +2,12 @@
 Automation - using Cucumber and Selenium
 
 * Presiquite softwares:
-   Eclipse : Luna
-   Chrome exe : 2.29
-   Maven : 3.1
-   Java : 8
-   Cucumber : 1.2.5
-   Selenium : 2.53.1
+   1. Eclipse : Luna
+   2. Chrome exe : 2.29
+   3. Maven : 3.1
+   4. Java : 8
+   5. Cucumber : 1.2.5
+   6. Selenium : 2.53.1
 
 
 
